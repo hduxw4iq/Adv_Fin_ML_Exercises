@@ -9,7 +9,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-plt.style.use('seaborn-talk')
+plt.style.use('seaborn-v0_8-talk')
 plt.style.use('bmh')
 #plt.rcParams['font.family'] = 'DejaVu Sans Mono'
 plt.rcParams['font.size'] = 9.5
